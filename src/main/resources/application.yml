@@ -1,0 +1,6 @@
+server:
+  # port 0 ? ?? ??
+  port: 8080
+  servlet:
+    encoding:
+      charset: utf-8
